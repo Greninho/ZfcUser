@@ -1,0 +1,123 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: ZfcUser\n"
+"Report-Msgid-Bugs-To: zf-devteam@zend.com\n"
+"POT-Creation-Date: 2015-05-12 11:04-0300\n"
+"PO-Revision-Date: 2015-05-12 11:08-0300\n"
+"Last-Translator: Stijnhau <stijnhau@gmail.com>\n"
+"Language-Team: \n"
+"Language: pt_BR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.7.6\n"
+"X-Poedit-KeywordsList: translate\n"
+"X-Poedit-Basepath: ../\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: language/msgIds.php:6
+msgid "Username"
+msgstr "Nome do Usuário"
+
+#: language/msgIds.php:7
+msgid "Email"
+msgstr "E-Mail"
+
+#: language/msgIds.php:8
+msgid "New Email"
+msgstr "Novo E-mail"
+
+#: language/msgIds.php:9
+msgid "Verify New Email"
+msgstr "Confirme o Endereço de Email"
+
+#: language/msgIds.php:10
+msgid "Display Name"
+msgstr "Nome de exibição"
+
+#: language/msgIds.php:11
+msgid "Password"
+msgstr "Senha"
+
+#: language/msgIds.php:12
+msgid "Password Verify"
+msgstr "Verificar senha"
+
+#: language/msgIds.php:13
+msgid "Current Password"
+msgstr "Senha atual"
+
+#: language/msgIds.php:14
+msgid "Verify New Password"
+msgstr "Verifique a nova senha"
+
+#: language/msgIds.php:15
+msgid "New Password"
+msgstr "Nova Senha"
+
+#: language/msgIds.php:16
+msgid "Please type the following text"
+msgstr "Por favor, digite o seguinte texto"
+
+#: language/msgIds.php:17
+msgid "Submit"
+msgstr "Enviar"
+
+#: language/msgIds.php:18 view/zfc-user/user/login.phtml:1
+msgid "Sign In"
+msgstr "Registrar-se"
+
+#: language/msgIds.php:19 view/zfc-user/user/register.phtml:1
+msgid "Register"
+msgstr "Cadastrar"
+
+#: language/msgIds.php:20
+msgid "No record matching the input was found"
+msgstr "Nenhum registro correspondente encontrado"
+
+#: language/msgIds.php:21
+msgid "A record matching the input was found"
+msgstr "Registro correspondente foi encontrado"
+
+#: language/msgIds.php:22
+msgid "Authentication failed. Please try again."
+msgstr "Falha de autenticação. Por favor, tente novamente."
+
+#: view/zfc-user/user/index.phtml:2
+msgid "Hello"
+msgstr "Olá"
+
+#: view/zfc-user/user/index.phtml:3
+msgid "Sign Out"
+msgstr "Sair"
+
+#: view/zfc-user/user/login.phtml:31
+msgid "Not registered?"
+msgstr "Ainda não tem uma conta?"
+
+#: view/zfc-user/user/login.phtml:31
+msgid "Sign up!"
+msgstr "Cadastre-se"
+
+#: view/zfc-user/user/register.phtml:5
+msgid "Registration is disabled"
+msgstr "Registro de usuário está desativado"
+
+#~ msgid "Change Email for %s"
+#~ msgstr "E-mail ändern für %s"
+
+#~ msgid "Email address changed successfully."
+#~ msgstr "Ihre E-Mail wurde erflogreich aktualisiert."
+
+#~ msgid "Unable to update your email address. Please try again."
+#~ msgstr "Ihre E-Mail konnte nicht erflogreich aktualisiert werden. Bitte versuchen Sie es erneut."
+
+#~ msgid "Change Password for %s"
+#~ msgstr "Passwort ändern für %s"
+
+#~ msgid "Password changed successfully."
+#~ msgstr "Ihr Passwort wurde erfolgreich aktualisiert."
+
+#~ msgid "Unable to update your password. Please try again."
+#~ msgstr "Ihr Passwort konnte nicht erfolgreich aktualisiert werden. Bitte versuchen Sie es erneut."
